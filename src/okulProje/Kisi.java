@@ -1,4 +1,4 @@
-package ikinciProje;
+package okulProje;
 
 public class Kisi implements OkulYonetim{
     private  String adSoyad;

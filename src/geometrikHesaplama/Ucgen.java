@@ -1,4 +1,4 @@
-package ilkProje;
+package geometrikHesaplama;
 
 public class Ucgen extends Sekil{
 

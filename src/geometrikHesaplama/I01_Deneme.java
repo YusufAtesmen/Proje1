@@ -1,4 +1,4 @@
-package ilkProje;
+package geometrikHesaplama;
 
 public interface I01_Deneme {
 

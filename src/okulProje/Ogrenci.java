@@ -1,4 +1,4 @@
-package ikinciProje;
+package okulProje;
 
 public class Ogrenci extends Kisi{
     private int ogrenciNo;

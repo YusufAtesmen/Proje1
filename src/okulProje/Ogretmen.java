@@ -1,4 +1,4 @@
-package ikinciProje;
+package okulProje;
 
 public class Ogretmen extends Kisi {
     private String brans;

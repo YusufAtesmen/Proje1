@@ -1,4 +1,4 @@
-package ikinciProje;
+package okulProje;
 
 import java.util.Scanner;
 

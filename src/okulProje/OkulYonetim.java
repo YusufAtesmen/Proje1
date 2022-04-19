@@ -1,4 +1,4 @@
-package ikinciProje;
+package okulProje;
 
 public interface OkulYonetim {
     void ekleme();

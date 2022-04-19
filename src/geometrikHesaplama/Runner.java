@@ -1,4 +1,4 @@
-package ilkProje;
+package geometrikHesaplama;
 
 import java.util.Scanner;
 

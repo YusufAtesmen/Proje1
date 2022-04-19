@@ -1,4 +1,4 @@
-package ilkProje;
+package geometrikHesaplama;
 
 public class Kare extends Dikdortgen {
     @Override
