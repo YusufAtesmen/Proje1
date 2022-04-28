@@ -65,7 +65,7 @@ public class Runner extends Ucgen{
             if (cemberYariCap<=0){
                 throw new IllegalArgumentException();
             }else {
-                Cember obj3 = new Cember();
+                Sekil obj3=new Sekil();
 
                obj3.cemberCevre(cemberYariCap);
                obj3.cemberAlan(cemberYariCap);
